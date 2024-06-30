@@ -6,7 +6,7 @@ Este é o front-end da aplicação do Projeto Full Stack, desenvolvida usando Re
 
 Este projeto é uma aplicação web que permite a gestão de um catálogo de alimentos. Através da interface, os usuários podem adicionar novos alimentos, visualizar a lista de alimentos existentes, atualizar informações e excluir alimentos do catálogo.
 
-##Para acessar a parte do back-end:
+## Para acessar a parte do back-end:
 
 [back end](https://github.com/HeitorNF1/CRUD-javaSpring)
 
